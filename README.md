@@ -9,4 +9,4 @@
 todo：
 找到获取单张与画集下图片类型的方法 现在是下载jpg 判断下载失败再下载png 
 
-安装地址：https://www.icloud.com/shortcuts/e879777dc0684f3f8bf33c5add670970
+安装地址：https://www.icloud.com/shortcuts/a759b113af3e46c59057d9b948f6fd00
