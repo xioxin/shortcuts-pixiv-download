@@ -6,7 +6,13 @@
 使用方法：
 可以通过 分享 或者 复制链接手动触发
 
-todo：
-找到获取单张与画集下图片类型的方法 现在是下载jpg 判断下载失败再下载png 
+安装地址：https://www.icloud.com/shortcuts/07de573e629f490d9828d4c20611be87
 
-安装地址：https://www.icloud.com/shortcuts/a759b113af3e46c59057d9b948f6fd00
+## 关于获取cookie的方法
+
+这里以Chrome浏览器为例
+
+首先你要先在电脑上登录pixiv
+右键选择 “检查” 
+找到 “Application” -> “Cookies” -> “https://www.pixiv.net”
+将 “PHPSESSID” 项的内容复制到捷径中
