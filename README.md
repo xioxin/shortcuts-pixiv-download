@@ -16,7 +16,7 @@
 这里以Chrome浏览器为例
 
 1. 首先你要先在电脑上登录pixiv
-2. 右键页面选择 “检查” 
+2. 登录成功后，右键页面选择 “检查” 
 3.  “Application” -> “Cookies” -> “https://www.pixiv.net”
 4. 将 “PHPSESSID” 项的内容复制到捷径中
 
