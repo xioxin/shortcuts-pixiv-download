@@ -1,12 +1,15 @@
 # 基于ios捷径的pixiv下载器
 
+（安装前先准备好登录后的cookie值）
+安装地址：https://www.icloud.com/shortcuts/07de573e629f490d9828d4c20611be87
+
 自动分析内容类型并下载
 支持：单张、画集、动图（转Gif）
 
 使用方法：
 可以通过 分享 或者 复制链接手动触发
 
-安装地址：https://www.icloud.com/shortcuts/07de573e629f490d9828d4c20611be87
+
 
 ## 关于获取cookie的方法
 
