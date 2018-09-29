@@ -19,3 +19,6 @@
 2. 右键页面选择 “检查” 
 3.  “Application” -> “Cookies” -> “https://www.pixiv.net”
 4. 将 “PHPSESSID” 项的内容复制到捷径中
+
+![image](https://user-images.githubusercontent.com/5716100/46239766-bbba5e80-c3cf-11e8-9b96-3ef43242872a.png)
+
