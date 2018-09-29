@@ -1,6 +1,6 @@
 # 基于ios捷径的pixiv下载器
 
-（安装前先准备好登录后的cookie值）
+（安装前先准备好登录后的cookie值）<br>
 安装地址：https://www.icloud.com/shortcuts/07de573e629f490d9828d4c20611be87
 
 自动分析内容类型并下载
