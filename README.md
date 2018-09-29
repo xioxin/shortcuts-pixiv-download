@@ -22,3 +22,5 @@
 
 ![image](https://user-images.githubusercontent.com/5716100/46239766-bbba5e80-c3cf-11e8-9b96-3ef43242872a.png)
 
+5. 安装时候填写这个值
+![image](https://user-images.githubusercontent.com/5716100/46239802-3f744b00-c3d0-11e8-8840-133e06384e97.png)
